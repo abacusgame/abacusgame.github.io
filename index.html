@@ -1,0 +1,197 @@
+<!doctype html>
+<html>
+       <head>
+              <title>Abacus Game</title>
+<!--              <title>Gdx2048</title>-->
+              <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+              <meta id="gameViewport" name="viewport" content="width=device-width initial-scale=1">
+
+<link href="styles.css" rel="stylesheet" type="text/css">
+              <script src="soundmanager2-setup.js"></script>
+<script src="soundmanager2-jsmin.js"></script> 
+
+<!-- adsense -->
+<!--
+
+           <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+           <script>
+             (adsbygoogle = window.adsbygoogle || []).push({
+               google_ad_client: "ca-pub-9211553020931129",
+               enable_page_level_ads: true
+             });
+           </script>
+
+                      <script data-ad-client="ca-pub-9211553020931129" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+-->
+<!-- adsense -->
+
+<link rel="manifest" href="./manifest.json">
+
+<!-- 
+<script>
+if('serviceWorker' in navigator){
+	navigator.serviceWorker.register('service_worker.js').then(function(){
+		console.log("Service Worker Registered");
+	});
+}else{
+		console.log("Service Worker Not Registered");
+}
+</script>
+<link rel="serviceworker" href="/service-worker.json">
+<script type="text/javascript" src="service-worker.js">
+
+//<link href="serviceworker.js"  type="text/javascript"> 
+//<script>
+//Service Workerがサポートされているかチェック 
+//if (navigator.serviceWorker) {    //Service Worker を登録    
+//navigator.serviceWorker.register("/serviceworker.js");
+//}
+-->
+<script>
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register("serviceworker.js")
+    .then(function() {
+      console.log('Service worker registered!');
+    });
+}
+</script>
+
+<!-- //dame
+if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+        navigator.serviceWorker.register("/serviceworker.js")
+            .then(reg => {
+                console.log('Registration succeeded. Scope is ' + reg.scope);
+            })
+            .catch(registrationError => {
+                console.log('SW registration failed: ', registrationError);
+            });
+    });
+} //dame
+-->
+<!-- 
+
+importScripts(
+  "webpack.mix.js"
+);
+//Service Workerがサポートされているかチェック 
+<script type="text/javascript" src="/serviceworker.js">
+-->
+<!-- //dame
+<script>
+    // Set the scope to an upper path of the script location
+    // Response included "Service-Worker-Allowed : /"
+    navigator.serviceWorker.register("serviceworker.js", { scope: "/" }).then(() => {
+ console.log("Install succeeded as the max allowed scope was overriden to '/'.");
+    });
+</script> //dame
+--> 
+
+<!-- 
+<script src="/app.js"></script>
+<script>
+    // ServiceWorker登録：https://developers.google.com/web/fundamentals/primers/service-workers/?hl=ja
+    if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('service-worker.js').then(function(registration) {
+        console.log('ServiceWorker registration successful with scope: ', registration.scope);
+    }).catch(function(err) {
+        console.log('ServiceWorker registration failed: ', err);
+    });
+    }
+</script>
+-->
+
+
+              <div align="center">
+<!-- i-mobile for PC client script -->
+	<script type="text/javascript">
+		imobile_pid = "73871";
+		imobile_asid = "1717540";
+		imobile_width = 468;
+		imobile_height = 60;
+	</script>
+	<script type="text/javascript" src="https://spdeliver.i-mobile.co.jp/script/ads.js?20101001"></script>
+	</div>
+
+       </head>
+
+       <body>
+       <!-- admax -->
+<!--       <script src="https://adm.shinobi.jp/s/9ab12ca7f122ec17207b6524e72e1960"></script>-->
+       <!-- admax -->
+
+           <!-- nend -->
+           <script type="text/javascript">
+var nend_params = {"media":30383,"site":340707,"spot":1008198,"type":1,"oriented":1};
+</script>
+           <script type="text/javascript" src="https://js1.nend.net/js/nendAdLoader.js"></script>
+           <!-- nend -->
+
+
+<!--              <a class="superdev" href="javascript:%7B%20window.__gwt_bookmarklet_params%20%3D%20%7B'server_url'%3A'http%3A%2F%2Flocalhost%3A9876%2F'%7D%3B%20var%20s%20%3D%20document.createElement('script')%3B%20s.src%20%3D%20'http%3A%2F%2Flocalhost%3A9876%2Fdev_mode_on.js'%3B%20void(document.getElementsByTagName('head')%5B0%5D.appendChild(s))%3B%7D">&#8635;</a>-->
+              <div align="center" id="embed-html"></div>
+              <script type="text/javascript" src="html/html.nocache.js"></script>
+
+<!-- 
+       <div id="mainContainer">
+           <div id="content">
+               <video id="contentElement">
+                   <source src="https://storage.googleapis.com/gvabox/media/samples/stock.mp4"></source>
+               </video>
+           </div>
+           <div id="adContainer"></div>
+       </div>
+       <button id="playButton">Play</button>
+       <script type="text/javascript" src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+       <script type="text/javascript" src="ads.js"></script>
+-->
+
+
+
+
+
+
+<!-- footer -->
+  <footer>
+
+<!-- i-mobile for SmartPhone client script -->
+	<script type="text/javascript">
+		imobile_tag_ver = "0.3"; 
+		imobile_pid = "73871"; 
+		imobile_asid = "1717538"; 
+		imobile_type = "inline";
+	</script>
+	<script type="text/javascript" src="http://spad.i-mobile.co.jp/script/adssp.js?20110215"></script>
+
+
+
+
+       <!-- amazon -->
+             <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=13&l=ur1&category=amazonrotate&f=ifr&linkID=77f512657094e96c8baac2a9328fe182&t=abacusgame-22&tracking_id=abacusgame-22" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+             <!-- amazon -->
+
+  </footer>
+<!-- footer -->
+
+
+       </body>
+
+       <script>
+              document.getElementById('gameViewport').setAttribute('content',
+                 'width=device-width initial-scale=' + 1/window.devicePixelRatio);
+
+              function handleMouseDown(evt) {
+                evt.preventDefault();
+                evt.stopPropagation();
+                window.focus();
+              }
+
+              function handleMouseUp(evt) {
+                evt.preventDefault();
+                evt.stopPropagation();
+              }
+              document.getElementById('embed-html').addEventListener('mousedown', handleMouseDown, false);
+              document.getElementById('embed-html').addEventListener('mouseup', handleMouseUp, false);
+       </script>
+
+</html>
