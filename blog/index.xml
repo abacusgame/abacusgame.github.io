@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Abacus Shapes</title>
+    <link>https://abacusgame.github.io/blog/</link>
+    <description>Recent content in Blogs on Abacus Shapes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Thu, 09 Jun 2022 15:34:54 +0900</lastBuildDate><atom:link href="https://abacusgame.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog01</title>
+      <link>https://abacusgame.github.io/blog/blog01/</link>
+      <pubDate>Thu, 09 Jun 2022 15:34:54 +0900</pubDate>
+      
+      <guid>https://abacusgame.github.io/blog/blog01/</guid>
+      <description>Google analytics has been started.</description>
+    </item>
+    
+  </channel>
+</rss>
