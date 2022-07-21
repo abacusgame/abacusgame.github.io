@@ -6,26 +6,29 @@
     <description>Recent content on Abacus Shapes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 21 Jul 2022 20:27:31 +0900</lastBuildDate><atom:link href="https://abacusgame.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Jul 2022 21:38:08 +0900</lastBuildDate><atom:link href="https://abacusgame.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Explanation</title>
-      <link>https://abacusgame.github.io/abacusshapes/explanation/</link>
-      <pubDate>Thu, 21 Jul 2022 20:27:31 +0900</pubDate>
+      <title>Route_and_tree</title>
+      <link>https://abacusgame.github.io/abacusshapes/route_and_tree/</link>
+      <pubDate>Thu, 21 Jul 2022 21:38:08 +0900</pubDate>
       
-      <guid>https://abacusgame.github.io/abacusshapes/explanation/</guid>
-      <description>Current status.
-Android above 5: this app works properly
-Android below 4.0: this app won&amp;rsquo;t work
-iPad mini2: this app works properly
-iPhone 4s: Slow
-Please consider the function of adding external PNG images as experimental.
-There are still bugs that the PNG images persists to stay on Screen and never be refreshed. I tried to fix this bug and waisted several days in vain. I wondered whether it&amp;rsquo;s really worth spending time in fixing this problem or not.</description>
+      <guid>https://abacusgame.github.io/abacusshapes/route_and_tree/</guid>
+      <description> Representations of paths in two ways route and tree </description>
     </item>
     
     <item>
-      <title>Blog06</title>
+      <title>Clone_technology</title>
+      <link>https://abacusgame.github.io/blog/clone_technology/</link>
+      <pubDate>Thu, 21 Jul 2022 21:30:07 +0900</pubDate>
+      
+      <guid>https://abacusgame.github.io/blog/clone_technology/</guid>
+      <description>Current medical technology can make clones of creatures. The clone becomes an Identical twin of the original one. We can ask a surrogate mather to give birth to a clone baby. Plants or single cell creatures propagate themselves with clones. Graft technology is possible with plants. There are Siamese twins. If an old man make a clone of him and graft it on him, then they will be Siamese twins. Or if we embed the clone into the the old man&amp;rsquo;s body like a pregnant woman, it will grow inside of his body.</description>
+    </item>
+    
+    <item>
+      <title>Corona_virus</title>
       <link>https://abacusgame.github.io/blog/corona_virus/</link>
-      <pubDate>Thu, 09 Jun 2022 22:42:06 +0900</pubDate>
+      <pubDate>Thu, 21 Jul 2022 21:30:07 +0900</pubDate>
       
       <guid>https://abacusgame.github.io/blog/corona_virus/</guid>
       <description>I&amp;rsquo;ve finally got a vaccination against corona virus.
@@ -36,9 +39,39 @@ to repel the virus. But after getting the vaccination, I had suffered from terri
     </item>
     
     <item>
-      <title>Blog05</title>
+      <title>Drone_technology</title>
+      <link>https://abacusgame.github.io/blog/drone_technology/</link>
+      <pubDate>Thu, 21 Jul 2022 21:30:07 +0900</pubDate>
+      
+      <guid>https://abacusgame.github.io/blog/drone_technology/</guid>
+      <description>Drone
+One of my dreams is to fly in the sky freely. Now drone is getting popular these days.
+They use VR camera to watch the scene from the drone. Instead of VR camera,
+I&amp;rsquo;d like to propose a way to use 360 degrees camera. Not only one screen ahead, but also cameras on both sides, up and down, and behind your body. Then you will feel like you&amp;rsquo;re really sitting in a cockpit of the drone.</description>
+    </item>
+    
+    <item>
+      <title>Food_delivery</title>
+      <link>https://abacusgame.github.io/blog/food_delivery/</link>
+      <pubDate>Thu, 21 Jul 2022 21:30:07 +0900</pubDate>
+      
+      <guid>https://abacusgame.github.io/blog/food_delivery/</guid>
+      <description>I&amp;rsquo;ve worked as a delivery worker of Uber Eats and Demaekan. I bought a bag below. When I bought it, it costs 4000 yen. But now the price is increased. But perhaps you can find a web site that sells it with 4000 yen. The bag was useful but heavy. It can hold PET bottle to drink water with a net beside it. It was a good point, but to tell the truth, I didn&amp;rsquo;t use this bag to put foods in it.</description>
+    </item>
+    
+    <item>
+      <title>Progressive_supranuclear_palsy</title>
+      <link>https://abacusgame.github.io/blog/progressive_supranuclear_palsy/</link>
+      <pubDate>Thu, 21 Jul 2022 21:30:07 +0900</pubDate>
+      
+      <guid>https://abacusgame.github.io/blog/progressive_supranuclear_palsy/</guid>
+      <description>My dad is suffeing from a disease called progressive supranuclear palsy: PSP. Nowadays, I&amp;rsquo;m caring my parent everyday. Caring disabled is hassle. He is very heavy to support. He can&amp;rsquo;t keep his balance. I need to control his balance when I try to make him walk. He is almost bedridden. But I think that walking with his own foot is quite important. To keep standing while feeling vertical stimulation of gravity strengthen bones and stimulate the secretion of some proper hormon, I guess.</description>
+    </item>
+    
+    <item>
+      <title>Traffic_technology</title>
       <link>https://abacusgame.github.io/blog/traffic_technology/</link>
-      <pubDate>Thu, 09 Jun 2022 22:41:57 +0900</pubDate>
+      <pubDate>Thu, 21 Jul 2022 21:30:07 +0900</pubDate>
       
       <guid>https://abacusgame.github.io/blog/traffic_technology/</guid>
       <description>Fail safe traffic system.
@@ -52,42 +85,18 @@ or regular automobile inspection. Install passive controller of speed and steeri
     </item>
     
     <item>
-      <title>Blog04</title>
-      <link>https://abacusgame.github.io/blog/drone_technology/</link>
-      <pubDate>Thu, 09 Jun 2022 22:16:18 +0900</pubDate>
+      <title>Explanation</title>
+      <link>https://abacusgame.github.io/abacusshapes/explanation/</link>
+      <pubDate>Thu, 21 Jul 2022 20:27:31 +0900</pubDate>
       
-      <guid>https://abacusgame.github.io/blog/drone_technology/</guid>
-      <description>Drone
-One of my dreams is to fly in the sky freely. Now drone is getting popular these days.
-They use VR camera to watch the scene from the drone. Instead of VR camera,
-I&amp;rsquo;d like to propose a way to use 360 degrees camera. Not only one screen ahead, but also cameras on both sides, up and down, and behind your body. Then you will feel like you&amp;rsquo;re really sitting in a cockpit of the drone.</description>
-    </item>
-    
-    <item>
-      <title>Blog03</title>
-      <link>https://abacusgame.github.io/blog/progressive_supranuclear_palsy/</link>
-      <pubDate>Thu, 09 Jun 2022 21:59:09 +0900</pubDate>
-      
-      <guid>https://abacusgame.github.io/blog/progressive_supranuclear_palsy/</guid>
-      <description>My dad is suffeing from a disease called progressive supranuclear palsy: PSP. Nowadays, I&amp;rsquo;m caring my parent everyday. Caring disabled is hassle. He is very heavy to support. He can&amp;rsquo;t keep his balance. I need to control his balance when I try to make him walk. He is almost bedridden. But I think that walking with his own foot is quite important. To keep standing while feeling vertical stimulation of gravity strengthen bones and stimulate the secretion of some proper hormon, I guess.</description>
-    </item>
-    
-    <item>
-      <title>Blog02</title>
-      <link>https://abacusgame.github.io/blog/food_delivery/</link>
-      <pubDate>Thu, 09 Jun 2022 21:57:34 +0900</pubDate>
-      
-      <guid>https://abacusgame.github.io/blog/food_delivery/</guid>
-      <description>I&amp;rsquo;ve worked as a delivery worker of Uber Eats and Demaekan. I bought a bag below. When I bought it, it costs 4000 yen. But now the price is increased. But perhaps you can find a web site that sells it with 4000 yen. The bag was useful but heavy. It can hold PET bottle to drink water with a net beside it. It was a good point, but to tell the truth, I didn&amp;rsquo;t use this bag to put foods in it.</description>
-    </item>
-    
-    <item>
-      <title>Blog01</title>
-      <link>https://abacusgame.github.io/blog/clone_technology/</link>
-      <pubDate>Thu, 09 Jun 2022 15:34:54 +0900</pubDate>
-      
-      <guid>https://abacusgame.github.io/blog/clone_technology/</guid>
-      <description>Current medical technology can make clones of creatures. The clone becomes an Identical twin of the original one. We can ask a surrogate mather to give birth to a clone baby. Plants or single cell creatures propagate themselves with clones. Graft technology is possible with plants. There are Siamese twins. If an old man make a clone of him and graft it on him, then they will be Siamese twins. Or if we embed the clone into the the old man&amp;rsquo;s body like a pregnant woman, it will grow inside of his body.</description>
+      <guid>https://abacusgame.github.io/abacusshapes/explanation/</guid>
+      <description>Current status.
+Android above 5: this app works properly
+Android below 4.0: this app won&amp;rsquo;t work
+iPad mini2: this app works properly
+iPhone 4s: Slow
+Please consider the function of adding external PNG images as experimental.
+There are still bugs that the PNG images persists to stay on Screen and never be refreshed. I tried to fix this bug and waisted several days in vain. I wondered whether it&amp;rsquo;s really worth spending time in fixing this problem or not.</description>
     </item>
     
     <item>
