@@ -43,6 +43,18 @@ if (!doNotTrack) {
 </script>
 
 
+<!-- //20231224 tsuika -->
+  <!-- This tag is used by the pwa-starterAbacusShapes CLI to identify template projects. Don't remove if you are using the CLI. -->
+  <meta name="pwa-starter-template-identity" content="pwa-starter"/>
+
+  <!-- Imports an icon to represent the document. -->
+  <link rel="icon" href="/assets/icons/icon_24.png" type="image/png" />
+
+  <!-- Imports the manifest to represent the web application. A web app must have a manifest to be a PWA. -->
+  <link rel="manifest" href="/manifest.json" />
+<!-- //20231224 tsuika -->
+
+
 
 
 </head>
@@ -402,5 +414,16 @@ or regular automobile inspection. Install passive controller of speed and steeri
 
 	</div>
 <script async defer src="/js/menu.js"></script>
+
+<!-- //20231224 tsuika -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register(
+        '/sw.js'
+      );
+    }
+  </script>
+<!-- //20231224 tsuika -->
+
 </body>
 </html>

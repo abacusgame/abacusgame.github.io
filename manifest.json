@@ -1,0 +1,53 @@
+{
+  "background_color": "#ffffff",
+  "description": "You can study efficiently.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Abacus Shapes",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Abacus Shapes",
+  "start_url": "abacusgame.github.io",
+  "theme_color": "#ffffff",
+  "categories": [
+    "books",
+    "business",
+    "education",
+    "entertainment",
+    "finance",
+    "fitness",
+    "food",
+    "games",
+    "government",
+    "health",
+    "kids",
+    "lifestyle",
+    "magazines",
+    "medical",
+    "music",
+    "navigation",
+    "news",
+    "personalization",
+    "photo",
+    "politics",
+    "productivity",
+    "security",
+    "social",
+    "sports",
+    "travel",
+    "utilities",
+    "weather"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "/favicon.ico"
+    },
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "shortcuts": [],
+  "id": "abacusshapes"
+}
