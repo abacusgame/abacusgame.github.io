@@ -115,10 +115,15 @@ body {
 <style>
 .p-game {
 	position: relative;
+	padding-bottom: 200%;
+	height: 0;
 	width: 100%;
-	height: 100%;
+	overflow: hidden;
 }
 .p-game iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
 	width: 100%;
 	height: 100%;
 }
