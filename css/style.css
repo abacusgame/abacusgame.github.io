@@ -114,8 +114,9 @@ body {
 
 <style>
 .p-game {
+	position: relative;
 	width: 100%;
-	aspect-ratio: 1 / 2;
+	height: 100%;
 }
 .p-game iframe {
 	width: 100%;
